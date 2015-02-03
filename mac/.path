@@ -1,4 +1,1 @@
-PATH=/usr/local/share/npm/bin:$PATH
-PATH=/usr/local/share/python:$PATH
-PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-export PATH
+../common/.path
