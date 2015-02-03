@@ -28,3 +28,9 @@
 [submodule "common/.vim/bundle/vim-powerline"]
 	path = common/.vim/bundle/vim-powerline
 	url = git@github.com:Lokaltog/vim-powerline.git
+[submodule "common/.vim/bundle/ag.vim"]
+	path = common/.vim/bundle/ag.vim
+	url = https://github.com/rking/ag.vim.git
+[submodule "common/.vim/bundle/vim-nerdtree-tabs"]
+	path = common/.vim/bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
