@@ -1,33 +1,33 @@
 [submodule "common/.vim/bundle/The-NERD-Commenter"]
 	path = common/.vim/bundle/The-NERD-Commenter
-	url = git@github.com:vim-scripts/The-NERD-Commenter.git
+	url = https://github.com:vim-scripts/The-NERD-Commenter.git
 [submodule "common/.vim/bundle/matchit.zip"]
 	path = common/.vim/bundle/matchit.zip
-	url = git@github.com:vim-scripts/matchit.zip.git
+	url = https://github.com:vim-scripts/matchit.zip.git
 [submodule "common/.vim/bundle/rainbow_parentheses.vim"]
 	path = common/.vim/bundle/rainbow_parentheses.vim
-	url = git@github.com:kien/rainbow_parentheses.vim.git
+	url = https://github.com:kien/rainbow_parentheses.vim.git
 [submodule "common/.vim/bundle/vim-gitgutter"]
 	path = common/.vim/bundle/vim-gitgutter
-	url = git@github.com:airblade/vim-gitgutter.git
+	url = https://github.com:airblade/vim-gitgutter.git
 [submodule "common/.vim/bundle/vim-multiple-cursors"]
 	path = common/.vim/bundle/vim-multiple-cursors
-	url = git@github.com:terryma/vim-multiple-cursors.git
+	url = https://github.com:terryma/vim-multiple-cursors.git
 [submodule "common/.vim/bundle/vim-ruby"]
 	path = common/.vim/bundle/vim-ruby
-	url = git@github.com:vim-ruby/vim-ruby.git
+	url = https://github.com:vim-ruby/vim-ruby.git
 [submodule "common/.vim/bundle/ctrlp.vim"]
 	path = common/.vim/bundle/ctrlp.vim
-	url = git@github.com:kien/ctrlp.vim.git
+	url = https://github.com:kien/ctrlp.vim.git
 [submodule "common/.vim/bundle/nerdtree"]
 	path = common/.vim/bundle/nerdtree
-	url = git@github.com:scrooloose/nerdtree.git
+	url = https://github.com:scrooloose/nerdtree.git
 [submodule "common/.vim/bundle/vim-markdown"]
 	path = common/.vim/bundle/vim-markdown
-	url = git@github.com:tpope/vim-markdown.git
+	url = https://github.com:tpope/vim-markdown.git
 [submodule "common/.vim/bundle/vim-powerline"]
 	path = common/.vim/bundle/vim-powerline
-	url = git@github.com:Lokaltog/vim-powerline.git
+	url = https://github.com:Lokaltog/vim-powerline.git
 [submodule "common/.vim/bundle/ag.vim"]
 	path = common/.vim/bundle/ag.vim
 	url = https://github.com/rking/ag.vim.git
