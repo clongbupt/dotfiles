@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/changlong.wu/.vim/bundle'
+let g:netrw_dirhist_2='/Users/changlong.wu/clong/rpaas-config-jpe1'
+let g:netrw_dirhist_3='/Users/changlong.wu/clong/rpaas-rcc'
+let g:netrw_dirhist_4='/Users/changlong.wu/clong/rpaas-chef'
+let g:netrw_dirhist_5='/Users/changlong.wu/clong/rpaas-config-jpe1'
+let g:netrw_dirhist_6='/Users/changlong.wu/.ssh'
