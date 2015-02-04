@@ -6,7 +6,7 @@
 	url = https://github.com/vim-scripts/matchit.zip.git
 [submodule "common/.vim/bundle/rainbow_parentheses.vim"]
 	path = common/.vim/bundle/rainbow_parentheses.vim
-	url = https://github.com:kien/rainbow_parentheses.vim.git
+	url = https://github.com/kien/rainbow_parentheses.vim.git
 [submodule "common/.vim/bundle/vim-gitgutter"]
 	path = common/.vim/bundle/vim-gitgutter
 	url = https://github.com/airblade/vim-gitgutter.git
