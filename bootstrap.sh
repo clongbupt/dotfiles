@@ -13,8 +13,8 @@ function doIt() {
           echo $0: this script does not support Other Platform \:\(
         fi;
 
-        git submodule sync
         git submodule init
+        git submodule sync
         git submodule update
 
 	rsync -L --exclude ".git/" --exclude ".DS_Store" --exclude "bootstrap.sh" \
