@@ -34,3 +34,9 @@
 [submodule "common/.vim/bundle/vim-nerdtree-tabs"]
 	path = common/.vim/bundle/vim-nerdtree-tabs
 	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "common/.vim/bundle/neocomplcache.vim"]
+	path = common/.vim/bundle/neocomplcache.vim
+	url = https://github.com/Shougo/neocomplcache.vim.git
+[submodule "common/.vim/bundle/vim-go"]
+	path = common/.vim/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
