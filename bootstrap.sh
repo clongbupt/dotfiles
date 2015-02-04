@@ -22,6 +22,7 @@ function doIt() {
 	source ~/.bash_profile;
         mkdir ~/.vim/swaps
         mkdir ~/.vim/undo
+        mkdir ~/.vim/backups
 }
 
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
