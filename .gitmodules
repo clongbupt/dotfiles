@@ -40,3 +40,6 @@
 [submodule "common/.vim/bundle/vim-go"]
 	path = common/.vim/bundle/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "common/.z"]
+	path = common/.z
+	url = https://github.com/rupa/z
