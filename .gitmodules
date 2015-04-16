@@ -44,5 +44,5 @@
 	path = common/z
 	url = https://github.com/rupa/z
 [submodule "common/.vim/bundle/vim-fugitive"]
-        path = common/.vim/bundle/vim-fugitive
-        url = https://github.com/tpope/vim-fugitive.git
+	path = common/.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
