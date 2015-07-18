@@ -134,12 +134,6 @@ command Wq wq
 " Better mark jumping (line + col)
 nnoremap ' `
 
-" Hard to type things
-imap >> →
-imap << ←
-imap ^^ ↑
-imap VV ↓
-imap aa λ
 
 " Toggle show tabs and trailing spaces (,c)
 set lcs=tab:›\ ,trail:·,eol:¬,nbsp:_
@@ -296,3 +290,9 @@ nnoremap <leader>rp :RainbowParenthesesToggle<CR>
 
 "ag.vim
 let g:ackprg = 'ag --nogroup --nocolor --column'
+
+"copy and paste
+nmap <F1> :set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
+imap <F1> <Esc>:set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
+nmap <F2> :.w !pbcopy<CR><CR>
+vmap <F2> :w !pbcopy<CR><CR>
